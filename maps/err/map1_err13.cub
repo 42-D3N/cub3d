@@ -1,0 +1,7 @@
+NO ./assets/NO_texture.xpm
+SO ./assets/SO_texture.xpm
+WE ./assets/WE_texture.xpm
+EA ./assets/EA_texture.xpm
+
+F 220,100,0
+C 225,30,0

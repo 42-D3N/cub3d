@@ -1,0 +1,24 @@
+map1_err1.cub  --> Empty file.
+map1_err2.cub  --> Only new line/spaces/tabs.
+
+map1_err3.cub  --> Not valid SO Texture path.
+map1_err4.cub  --> No WE path (without keyword).
+map1_err5.cub  --> No EA path (with keyword).
+map1_err6.cub  --> Duplicate WE path.
+map1_err7.cub  --> WE path after map.
+map1_err8.cub  --> SO path in the map.
+
+map1_err9.cub  --> No Ceiling field.
+map1_err10.cub --> Invalid RGB code (F 220,100).
+map1_err11.cub --> Invalid RGB code (C 225,3000,0).
+
+map1_err12.cub --> Map not at end of file.
+map1_err13.cub --> No map.
+map1_err14.cub --> New line in map.
+map1_err15.cub --> Breach (west side).
+map1_err16.cub --> Two players.
+map1_err17.cub --> No player.
+map1_err18.cub --> Player out of map.
+map1_err19.cub --> Space not accessible in map.
+map1_err20.cub --> Space accessible by player.
+map1_err21.cub --> 'd' in rgb code.
